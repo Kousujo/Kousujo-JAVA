@@ -6,7 +6,7 @@ public class DoublyLinkedList {
     public DoublyLinkedList() {
         this.first = null;
         this.last = null;
-    }
+    }   
 
     public void Traverse() {
     Node p = first;
